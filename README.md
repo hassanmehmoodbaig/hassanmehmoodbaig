@@ -5,7 +5,7 @@
 <p align="center"> 🎓 BSCS'24 | Bahria University</p>
 <p align="center"> ⚡ Data Science & AI Enthusiast</p>
 <p align="center"> 🌱 Currently Learning ML Algorithms</p>
-<p align="center"> 📧 hassanbaig.biz[@]gmail.com</p>
+<p align="center"> 📧 hassanbaig.biz[at]gmail.com</p>
 <hr style="height:1px; width:50%; text-align:center; margin-left:0">
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hassanmehmoodbaig&theme=onedark&margin-w=50&column=4" alt="hassanmehmoodbaig" /></a> </p>

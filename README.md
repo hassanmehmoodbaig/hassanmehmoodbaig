@@ -1,13 +1,12 @@
 <h1 align="center">Hi there 👋 I'm Hassan Baig</h1>
 <h3 align="center">Data Scientist & Analyst</h3>
 <p  align="center"><img align="center" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaW9iYjB3dXdscDNjbGtydjIxcmUzYmFzMnZmZW85anA2am1semNxYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3ornk57KwDXf81rjWM/giphy.gif"></p>
-<hr style="height:1px; width:50%; text-align:center; margin-left:0">
+<hr>
 <p align="center"> 🎓 BSCS'24 | Bahria University</p>
 <p align="center"> ⚡ Data Science & AI Enthusiast</p>
 <p align="center"> 🌱 Currently Learning ML Algorithms</p>
 <p align="center"> 📧 hassanbaig.biz[at]gmail.com</p>
-<hr style="height:1px; width:50%; text-align:center; margin-left:0">
-
+<hr>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hassanmehmoodbaig&theme=onedark&margin-w=50&column=4" alt="hassanmehmoodbaig" /></a> </p>
 
 <p  align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=hassanmehmoodbaig&theme=dark&date_format=M%20j%5B%2C%20Y%5D" alt="hassanmehmoodbaig" /></p>
